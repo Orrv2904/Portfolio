@@ -299,7 +299,6 @@ button {
 
 #intro .container-mid h1 {
     font-weight: 500;
-    color: #9696ea;
     margin-bottom: .6em;
 }
 
@@ -1144,4 +1143,8 @@ h2{
     100%{
         width: 68%;
     }
+}
+
+#me{
+    color: #9696ea;
 }
