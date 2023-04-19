@@ -235,12 +235,7 @@ button {
     /* background: url(../img/colorado-2126991_1280.jpg); */
     background-repeat: no-repeat;
     background-size: cover;
-    background: #000000;
-    /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #434343, #000000);
-    /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #434343, #000000);
-    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-image: linear-gradient(to top, #c1dfc4 0%, #deecdd 100%);
 
 }
 
